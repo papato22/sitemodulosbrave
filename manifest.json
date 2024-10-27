@@ -1,0 +1,21 @@
+{
+    "name": "Brave Buscas",
+    "short_name": "App",
+    "start_url": "index.html", 
+    "display": "standalone",
+    "background_color": "#212b2a",
+    "theme_color": "#212b2a", 
+    "icons": [
+      {
+        "src": "icone.png", 
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icone.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
